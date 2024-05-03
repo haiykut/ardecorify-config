@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5433/ardecorify
+    url: jdbc:postgresql://localhost:5433/ardecorify_2
     username: postgres
     password: test123
   jpa:
