@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/ardecorify_2
     username: postgres
-    password: test123
+    password: test
   jpa:
     properties:
       hibernate:
